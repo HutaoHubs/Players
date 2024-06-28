@@ -29,7 +29,7 @@ HEADER.BackgroundTransparency = 1.000
 HEADER.Position = UDim2.new(0.157021835, 0, 0.0347593576, 0)
 HEADER.Size = UDim2.new(0, 200, 0, 50)
 HEADER.Font = Enum.Font.GothamBold
-HEADER.Text = "Set WS/JP Gui, By Stormzzy"
+HEADER.Text = "Set WS/JP Gui, By Hutaohubs"
 HEADER.TextColor3 = Color3.fromRGB(255, 255, 255)
 HEADER.TextSize = 24.000
 HEADER.TextWrapped = true
@@ -48,7 +48,7 @@ WS.TextSize = 13.000
 
 UICorner.Parent = WS
 
-SETWS.Name = "SETWS"
+SETWS.Name = "SETWALKSPEED"
 SETWS.Parent = Holder
 SETWS.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 SETWS.Position = UDim2.new(0.0260032788, 0, 0.362490475, 0)
@@ -60,7 +60,7 @@ SETWS.TextSize = 14.000
 
 UICorner_2.Parent = SETWS
 
-SETJP.Name = "SETJP"
+SETJP.Name = "SETJUMPPOWER"
 SETJP.Parent = Holder
 SETJP.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 SETJP.Position = UDim2.new(0.0294046402, 0, 0.672650933, 0)
